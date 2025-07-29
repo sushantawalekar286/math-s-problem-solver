@@ -1,0 +1,50 @@
+Steps:
+Step 1: The quadratic equation is: Eq(15.0*x**2 + 5.0*x + 4.0, 0)
+Step 2: Compute the discriminant: Δ = b² - 4ac = 5.0² - 4*15.0*4.0 = -215.0
+Step 3: The discriminant is negative, so the equation has two complex roots.
+Step 4: Solve the equation using the quadratic formula:
+  x = (-b ± √Δ) / 2a
+  Root 1: -0.166666666666667 - 0.488762609953839*I
+  Root 2: -0.166666666666667 + 0.488762609953839*I
+
+Result:
+-0.166666666666667 - 0.488762609953839*I
+-0.166666666666667 + 0.488762609953839*I
+========================================
+Steps:
+Step 1: The quadratic equation is: Eq(5.0*x**2 + 4.0*x + 6.0, 0)
+Step 2: Compute the discriminant: Δ = b² - 4ac = 4.0² - 4*5.0*6.0 = -104.0
+Step 3: The discriminant is negative, so the equation has two complex roots.
+Step 4: Solve the equation using the quadratic formula:
+  x = (-b ± √Δ) / 2a
+  Root 1: -0.4 - 1.01980390271856*I
+  Root 2: -0.4 + 1.01980390271856*I
+
+Result:
+-0.4 - 1.01980390271856*I
+-0.4 + 1.01980390271856*I
+========================================
+Steps:
+Step 1: The linear equation is: Eq(5.0*x - 6.0, 0)
+Step 2: Solve the equation:
+  x = -b / a = -(-6.0) / (5.0) = 1.20000000000000
+
+Result:
+1.20000000000000
+========================================
+Steps:
+Step 1: The linear equation is: Eq(2.0*x + 8.0, 0)
+Step 2: Solve the equation:
+  x = -b / a = -(8.0) / (2.0) = -4.00000000000000
+
+Result:
+-4.00000000000000
+========================================
+Steps:
+Step 1: The linear equation is: Eq(5.0*x + 6.0, 0)
+Step 2: Solve the equation:
+  x = -b / a = -(6.0) / (5.0) = -1.20000000000000
+
+Result:
+-1.20000000000000
+========================================
